@@ -13,7 +13,7 @@ new Vue({
           name: "Bad Guy",
           artist: "Billie Eilish",
           cover: "https://is.gd/DWGVG8",
-          source: "https://github.com/M2Robot/Players/blob/main/mp3/BillieBad.mp3",
+          source: "https://github.com/M2Robot/Players/mp3/BillieBad.mp3",
           url: "https://youtu.be/JfQsaDYTpO4",
           favorited: false
         },
@@ -21,7 +21,7 @@ new Vue({
           name: "Divoone Bazi 3",
           artist: "Mehrab ft. Reza Mirtaheri & Reza Gardeshi",
           cover: "https://v3.fastupload.co/data/6263/thumbnail.jpg",
-          source: "https://github.com/M2Robot/Players/blob/main/mp3/Mehrab1.mp3",
+          source: "https://github.com/M2Robot/Players/mp3/Mehrab1.mp3",
           url: "https://youtu.be/U2U0DBWXM9A",
           favorited: true
         },
@@ -29,7 +29,7 @@ new Vue({
           name: "Bagheboon",
           artist: "Mehrab",
           cover: "https://v3.fastupload.co/data/6269/thumbnail.jpg",
-          source: "https://github.com/M2Robot/Players/blob/main/mp3/Mehrab2.mp3",
+          source: "https://github.com/M2Robot/Players/mp3/Mehrab2.mp3",
           url: "https://youtu.be/LKfVB2q8_Yc",
           favorited: false
         },
@@ -37,7 +37,7 @@ new Vue({
           name: "Malakeh",
           artist: "Mehrab Ft. Mohammadreza Hosseini",
           cover: "https://v3.fastupload.co/data/6270/thumbnail.jpg",
-          source: "https://github.com/M2Robot/Players/blob/main/mp3/Mehrab3.mp3",
+          source: "https://github.com/M2Robot/Players/mp3/Mehrab3.mp3",
           url: "https://youtu.be/WCQH5fTCBQI",
           favorited: false
         },
@@ -45,7 +45,7 @@ new Vue({
           name: "Ashegh",
           artist: "Mehrab ft Ershad",
           cover: "https://v3.fastupload.co/data/6268/thumbnail.jpg",
-          source: "https://github.com/M2Robot/Players/blob/main/mp3/Mehrab5.mp3",
+          source: "https://github.com/M2Robot/Players/mp3/Mehrab5.mp3",
           url: "https://youtu.be/bVIaw87VPN4",
           favorited: true
         },
@@ -53,14 +53,14 @@ new Vue({
           name: "Overdose",
           artist: "Grandson",
           cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
-          source: "https://github.com/M2Robot/Players/blob/main/mp3/Mehrab4.mp3",
+          source: "https://github.com/M2Robot/Players/mp3/Mehrab4.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
         {
           name: "Gerim"
           cover: "https://v3.fastupload.co/data/6268/thumbnail.jpg",
-          source: "https://github.com/M2Robot/Players/blob/main/mp3/Mehrab6.mp3",
+          source: "https://github.com/M2Robot/Players/mp3/Mehrab6.mp3",
           url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
           favorited: false
         },
@@ -68,7 +68,7 @@ new Vue({
         name: "Overdose",
         artist: "Grandson",
         cover: "",
-        source: "https://github.com/M2Robot/Players/blob/main/mp3/Mehrab7.mp3",
+        source: "https://github.com/M2Robot/Players/mp3/Mehrab7.mp3",
         url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
         favorited: false
       },
